@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wasil! <br/><a href="https://github.com/wasilwahab">Programmer</a>, <a href="https://www.linkedin.com/in/wasilwahab/">Digital Marketing Expert</a>, 
+<h1>Hi, I'm Wasil! <br/><a href="https://github.com/wasilwahab">Brand Strategist</a>, <a href="https://www.linkedin.com/in/wasilwahab/">Digital Marketing Expert</a>
 
 <h2>👨‍💻 Digital Marketing Projects:</h2>
 
